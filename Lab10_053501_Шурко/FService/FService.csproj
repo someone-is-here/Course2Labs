@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <BaseOutputPath></BaseOutputPath>
+    <BaseIntermediateOutputPath>C:\Users\Админ\source\repos\Lab10_053501_Шурко\Lab10_053501_Шурко\obj\Debug</BaseIntermediateOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\Админ\source\repos\Lab10_053501_Шурко\Lab10_053501_Шурко\obj\Debug\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab10_053501_Шурко\Lab10_053501_Шурко.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="FileService.cs">
+      <Generator>Lab10_053501_Шурко.dll</Generator>
+    </Compile>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab10_053501_Шурко", "Lab10_053501_Шурко\Lab10_053501_Шурко.csproj", "{8315CB69-3DF3-4405-9CB3-CA123EEB4CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FService", "FService\FService.csproj", "{4C009A3B-8C24-4E03-B6B1-E3E7F4DBB826}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8315CB69-3DF3-4405-9CB3-CA123EEB4CE7} = {8315CB69-3DF3-4405-9CB3-CA123EEB4CE7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8315CB69-3DF3-4405-9CB3-CA123EEB4CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8315CB69-3DF3-4405-9CB3-CA123EEB4CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8315CB69-3DF3-4405-9CB3-CA123EEB4CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8315CB69-3DF3-4405-9CB3-CA123EEB4CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C009A3B-8C24-4E03-B6B1-E3E7F4DBB826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C009A3B-8C24-4E03-B6B1-E3E7F4DBB826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C009A3B-8C24-4E03-B6B1-E3E7F4DBB826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C009A3B-8C24-4E03-B6B1-E3E7F4DBB826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7879D1B6-45BD-405E-B8C6-9336A5B57099}
+	EndGlobalSection
+EndGlobal
