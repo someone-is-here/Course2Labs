@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab11_Task2": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
