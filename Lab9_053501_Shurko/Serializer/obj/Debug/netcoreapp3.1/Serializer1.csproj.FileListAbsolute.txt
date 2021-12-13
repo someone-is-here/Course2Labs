@@ -1,0 +1,13 @@
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\bin\Debug\netcoreapp3.1\Serializer1.deps.json
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\bin\Debug\netcoreapp3.1\Serializer1.dll
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\bin\Debug\netcoreapp3.1\Serializer1.pdb
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\bin\Debug\netcoreapp3.1\Lab.Domain.dll
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\bin\Debug\netcoreapp3.1\Lab.Domain.pdb
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\obj\Debug\netcoreapp3.1\Serializer1.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\obj\Debug\netcoreapp3.1\Serializer1.AssemblyInfo.cs
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\obj\Debug\netcoreapp3.1\Serializer1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\obj\Debug\netcoreapp3.1\Serializer1.csproj.CopyComplete
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\obj\Debug\netcoreapp3.1\Serializer1.dll
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\obj\Debug\netcoreapp3.1\Serializer1.pdb
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\obj\Debug\netcoreapp3.1\Serializer1.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\053501_Шурко_Lab9\Serializer\obj\Debug\netcoreapp3.1\Serializer1.GeneratedMSBuildEditorConfig.editorconfig
